@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sveta
 - 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Data analytics
+- 🌱 Currently working as Data analyst in a bank
 - 📫 How to reach me - telegram: @ssamokhina
 
 <!---
